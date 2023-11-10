@@ -1,2 +1,4 @@
-# CTI110
-CTI110 repository 
+# CTI110 repository
+Created for PLAB1
+Council
+10 Nov 23
